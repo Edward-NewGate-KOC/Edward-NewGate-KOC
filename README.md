@@ -1,4 +1,18 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Edward-NewGate-KOC.Edward-NewGate-KOC" />
+<div style="display: inline-block;">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Edward-NewGate-KOC.Edward-NewGate-KOC" />
+</div>
+<div style="display: inline-block;">
+  <img align="right" src="https://img.shields.io/badge/Best%20Anime-One%20Piece-ff0000" />
+</div>
+<div style="display: inline-block;">
+  <img align="right" src="https://img.shields.io/badge/Favorite%20Language-Java-007396" />
+</div>
+<div style="display: inline-block;">
+  <img align="right" src="https://img.shields.io/badge/Status-Always%20Online-008000" />
+</div>
+<div style="display: inline-block;">
+  <img align="right" src="https://img.shields.io/badge/Learning%20Something%20New-Always-00BCD4" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Edward+KOC!;" />
