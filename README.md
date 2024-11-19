@@ -25,12 +25,17 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css,mysql" />
+    <img src="https://skillicons.dev/icons?i=java" />
 </div>
-<div align="center" >
-    <img src="https://skillicons.dev/icons?i=androidstudio,cmake,vscode,github,git,gradle,firebase,figma" />
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=kotlin,cpp,python" />
 </div>
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript" />
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,vscode,gradle,firebase,figma" />
+</div>
 
 <br/>
 <hr/>
