@@ -9,7 +9,20 @@ on:
   workflow_dispatch:
 
 jobs:
+  deleteWorkflowRuns:
+    name: Delete all workflow runs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete all workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 0
+
   generate:
+    needs: deleteWorkflowRuns
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -39,9 +52,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Delete old workflows
-        run: |
-          gh run list --limit 100 --json databaseId,status --repo ${{ github.repository }} | jq -r '.[] | select(.status == "completed") | .databaseId' | xargs -I {} gh run delete --repo ${{ github.repository }} {}
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
