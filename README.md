@@ -1,19 +1,12 @@
-<!-- Badges -->
-<div style="display: inline-block;">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Edward-NewGate-KOC.Edward-NewGate-KOC">
-</div>
-<div style="display: inline-block;">
-  <img align="right" src="https://img.shields.io/badge/Best%20Anime-One%20Piece-ff0000">
-</div>
-<div style="display: inline-block;">
-  <img align="right" src="https://img.shields.io/badge/Favorite%20Language-Java-007396">
-</div>
-<div style="display: inline-block;">
-  <img align="right" src="https://img.shields.io/badge/Status-Always%20Online-008000">
-</div>
-<div style="display: inline-block;">
-  <img align="right" src="https://img.shields.io/badge/Learning%20Something%20New-Always-00BCD4">
-</div>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Edward-NewGate-KOC.Edward-NewGate-KOC">
+  <img src="https://img.shields.io/badge/Best%20Anime-One%20Piece-ff0000">
+  <img src="https://img.shields.io/badge/Favorite%20Language-Java-007396">
+  <img src="https://img.shields.io/badge/Status-Always%20Online-008000">
+  <img src="https://img.shields.io/badge/Learning%20Something%20New-Always-00BCD4">
+</p>
+
+<hr>
 
 <h3 align="center">A passionate mobile app developer from Algeria 🇩🇿</h3>
 
